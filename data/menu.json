@@ -1,0 +1,46 @@
+{
+    "menu" : [
+         {
+            "name" : "green pasta",
+           "description" : "pasta bayam dengan taburan wijen dan tambahan tomat",
+           "price" : 20,
+           "picture" : "green_pasta2.jpg",
+           "category" : "Dinner"
+         },
+        {
+            "name" : "Peperoni pizza",
+            "description" : "Pizza dengan toping jamur, paprika hijau dan merah, serta irisan bawang merah",
+            "price"      : 25,
+            "picture"  : "pizza_idaho2.jpg",
+            "category" : "Dinner"
+        },
+        {
+            "name" : "Poke Bowl",
+            "description" : "Mangkuk dengan salad buah berisi melon, buah naga, semangka, agar-agar, dan yogurt",
+             "price" : 20,
+             "picture" : "poke_bowl2.jpg",
+             "category" : "Breakfast"
+        },
+        {
+            "name" : "Healthy Sandwich",
+            "description" : "3 potong sandwich yang berbeda isi",
+             "price" : 25,
+             "picture" : "healthy_sandwich2.jpg",
+             "category" : "Breakfast"
+        },
+        {
+            "name" : "Ayam bakar sambal mattah",
+            "description" : "Nasi, ayam bakar, sambal mattah, tempe, tahu, dan lalapan",
+             "price" : 20,
+             "picture" : "ayam_bakar.jpg",
+             "category" : "Lunch"
+        },
+        {
+            "name" : "Gado-Gado Spesial",
+            "description" : "kacang panjang, tauge, tahu, kangkung, jagung, telur rebus, dengan saus kacang",
+             "price" : 19,
+             "picture" : "gado_gado.jpg",
+             "category" : "Lunch"
+        }
+    ]
+}
